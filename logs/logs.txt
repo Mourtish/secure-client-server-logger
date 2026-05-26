@@ -1,0 +1,2 @@
+2026-05-26 02:10:10.084108 - Unauthorized login attempt
+2026-05-26 04:11:18.615593 | 127.0.0.1 | Unauthorized login attempt
