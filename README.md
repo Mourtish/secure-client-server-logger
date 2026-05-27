@@ -41,7 +41,7 @@ HTTP is the protocol used for communication between client and server.
 - **Response** → sent by server  
 
 Example:
-
+POST/LOG
 ---
 
 ### 3. API (Application Programming Interface)
